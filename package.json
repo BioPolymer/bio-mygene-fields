@@ -1,0 +1,22 @@
+{
+  "description": "Displays the fields returned from the MyGene.info service.",
+  "keywords": [
+    "MyGene.info"
+  ],
+  "homepage": "http://bitbucket.org/mark_fortner/biopolymer",
+  "name": "@biopolymer/bio-mygene-fields",
+  "version": "1.0.0",
+  "resolutions": {
+    "inherits": "2.0.3",
+    "samsam": "1.1.3",
+    "supports-color": "3.1.2",
+    "type-detect": "1.0.0"
+  },
+  "main": "bio-mygene-fields.js",
+  "author": "Mark Fortner",
+  "license": "BSD",
+  "dependencies": {
+    "@polymer/iron-ajax": "^3.0.1"
+  },
+  "devDependencies": {}
+}
